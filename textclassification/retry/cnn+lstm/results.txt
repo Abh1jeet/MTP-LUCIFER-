@@ -1,0 +1,3 @@
+cnn+lstm2 combine3  32%  epoch5 batchSize5   
+cnn+lstm2 combine3  78%  epoch5 batchSize30       #batch size is higly sensitive
+cnn+lstm2 combine2  34%  epoch5 batchSize30       #batch size is higly sensitive

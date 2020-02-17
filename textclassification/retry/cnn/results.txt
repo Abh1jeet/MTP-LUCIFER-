@@ -1,0 +1,4 @@
+cnn2 combine3  83%  epoch2 batchSize5   
+cnn2 combine3  82%  epoch5 batchSize5
+cnn2 combine2  83%  epoch2 batchSize5   
+cnn2 combine2  84%  epoch5 batchSize5

@@ -1,0 +1,2 @@
+bilstm2 combine3  78%  epoch5 batchSize5   
+bilstm2 combine2  80%  epoch5 batchSize5

@@ -1,0 +1,4 @@
+lstm2 combine3  53%  epoch5 batchSize5   
+lstm2 combine3  57%  epoch10 batchSize5
+lstm2 combine3  78%  epoch50 batchSize5
+lstm2 combine   32%  epoch5 batchSize5
